@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=nasendd&theme=javascript-dark&hide_border=true&border_radius=10&locale=ru&card_width=1000)](https://git.io/streak-stats)
-
 <!--
 **nasendd/nasendd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
